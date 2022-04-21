@@ -1,0 +1,280 @@
+Adding a new book!
+Adding a new book!
+Adding a new book!
+Adding a new book!
+Adding a new book!
+Adding a new book!
+Printing all elements in the list...
+********************************************
+Name: Having Fun With C
+Stock_Num: 1234
+Classification: 613
+Cost of the book: 29.95
+Number of books in stock: 10
+
+
+Name: More Fun With C++
+Stock_Num: 2345
+Classification: 613
+Cost of the book: 29.95
+Number of books in stock: 15
+
+
+Name: Geeks Guide to C
+Stock_Num: 3456
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 15
+
+
+Name: Oh Say Can You C
+Stock_Num: 4567
+Classification: 316
+Cost of the book: 19.95
+Number of books in stock: 20
+
+
+Name: C++ Code Secrets
+Stock_Num: 5678
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 12
+
+
+Name: C  Spot  Program
+Stock_Num: 9876
+Classification: 613
+Cost of the book: 15.95
+Number of books in stock: 12
+
+
+********************************************
+
+Getting number of books...
+Number of books in stock: 10
+
+Getting number of books...
+Stock Num entered is incorrect
+
+
+Adding a new book!
+
+Printing all elements in the list...
+********************************************
+Name: Having Fun With C
+Stock_Num: 1234
+Classification: 613
+Cost of the book: 29.95
+Number of books in stock: 10
+
+
+Name: More Fun With C++
+Stock_Num: 2345
+Classification: 613
+Cost of the book: 29.95
+Number of books in stock: 15
+
+
+Name: Geeks Guide to C
+Stock_Num: 3456
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 15
+
+
+Name: Oh Say Can You C
+Stock_Num: 4567
+Classification: 316
+Cost of the book: 19.95
+Number of books in stock: 20
+
+
+Name: C++ Code Secrets
+Stock_Num: 5678
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 12
+
+
+Name: C  Spot  Program
+Stock_Num: 9876
+Classification: 613
+Cost of the book: 15.95
+Number of books in stock: 12
+
+
+Name: Algorithms
+Stock_Num: 824618
+Classification: 211
+Cost of the book: 52.32
+Number of books in stock: 1
+
+
+********************************************
+
+Adding a new book!
+
+Trying to remove a book
+
+Having Fun With C Removed!
+
+
+Trying to remove a book
+The stock number you have entered does not correspond to any book
+
+Searching for a book by stock number
+Book could not be found!
+
+Searching for a book by stock number
+
+A book was found!
+
+Name: Algorithms
+Stock_Num: 824618
+Classification: 211
+Cost of the book: 52.32
+Number of books in stock: 1
+
+Searching for a book by stock number
+Book could not be found!
+
+Searching for a book by cost
+Name: More Fun With C++
+Stock_Num: 2345
+Classification: 613
+Cost of the book: 29.95
+Number of books in stock: 15
+
+Name: Geeks Guide to C
+Stock_Num: 3456
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 15
+
+Name: C++ Code Secrets
+Stock_Num: 5678
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 12
+
+
+Searching for a book by cost
+Name: More Fun With C++
+Stock_Num: 2345
+Classification: 613
+Cost of the book: 29.95
+Number of books in stock: 15
+
+Name: Geeks Guide to C
+Stock_Num: 3456
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 15
+
+Name: Project X
+Stock_Num: 4343
+Classification: 222
+Cost of the book: 10.011
+Number of books in stock: 1
+
+Name: Oh Say Can You C
+Stock_Num: 4567
+Classification: 316
+Cost of the book: 19.95
+Number of books in stock: 20
+
+Name: C++ Code Secrets
+Stock_Num: 5678
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 12
+
+Name: C  Spot  Program
+Stock_Num: 9876
+Classification: 613
+Cost of the book: 15.95
+Number of books in stock: 12
+
+Name: Algorithms
+Stock_Num: 824618
+Classification: 211
+Cost of the book: 52.32
+Number of books in stock: 1
+
+
+Searching for a book by cost
+No books were found in this price range.
+
+
+
+Searching for a book by classification...
+Book found:
+Name: Algorithms
+Stock_Num: 824618
+Classification: 211
+Cost of the book: 52.32
+Number of books in stock: 1
+
+
+Searching for a book by classification...
+Book could not be found!
+
+Printing all elements in the list...
+********************************************
+Name: More Fun With C++
+Stock_Num: 2345
+Classification: 613
+Cost of the book: 29.95
+Number of books in stock: 15
+
+
+Name: Geeks Guide to C
+Stock_Num: 3456
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 15
+
+
+Name: Project X
+Stock_Num: 4343
+Classification: 222
+Cost of the book: 10.011
+Number of books in stock: 1
+
+
+Name: Oh Say Can You C
+Stock_Num: 4567
+Classification: 316
+Cost of the book: 19.95
+Number of books in stock: 20
+
+
+Name: C++ Code Secrets
+Stock_Num: 5678
+Classification: 316
+Cost of the book: 24.95
+Number of books in stock: 12
+
+
+Name: C  Spot  Program
+Stock_Num: 9876
+Classification: 613
+Cost of the book: 15.95
+Number of books in stock: 12
+
+
+Name: Algorithms
+Stock_Num: 824618
+Classification: 211
+Cost of the book: 52.32
+Number of books in stock: 1
+
+
+********************************************
+
+The ClearList function is now being implemented. All items will be deleted permanently
+Clearing the list
+
+Printing all elements in the list...
+********************************************
+********************************************
